@@ -2,7 +2,7 @@ This project proposes a novel Face Recognition system employing One-Shot Learnin
 
 Training:Ollivetti dataset<br>
 Testing:Ollivetti dataset+Self dataset<br><br>
-<h1>Result</h1><br><br>
+<h1>Output</h1><br><br>
 <img width="1004" alt="Screenshot 2024-03-20 at 2 14 09 PM" src="https://github.com/ssachis/Face-recognition-using-one-shot-learning/assets/89895559/55208c42-fd44-4d33-be0f-d1e4340c2539">
 
 
