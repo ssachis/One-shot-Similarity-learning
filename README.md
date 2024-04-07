@@ -4,3 +4,4 @@ Face recognition is a critical component of numerous applications, spanning secu
 
 
 <img width="1004" alt="Screenshot 2024-03-20 at 2 18 15 PM" src="https://github.com/ssachis/Face-recognition-using-one-shot-learning/assets/89895559/580aa1b6-eb25-48ea-a99c-90a93a148b0c">
+<img width="909" alt="Screenshot 2024-04-07 at 10 34 27 PM" src="https://github.com/ssachis/Face-recognition-using-one-shot-learning/assets/89895559/6a3b85df-a848-41f9-b809-60051ece2731">
