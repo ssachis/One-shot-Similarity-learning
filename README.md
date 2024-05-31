@@ -2,6 +2,9 @@ This project proposes a novel Face Recognition system employing One-Shot Learnin
 
 Dataset used for training: Enhanced Ollivetti dataset,150 epochs<br> 
 The model is robust over changes in lighting , angles and noise<br> 
+MODEL ARCHITECTURE<br> 
+<img width="211" alt="image" src="https://github.com/ssachis/One-shot-Similarity-learning/assets/89895559/f01d84a8-a32f-489f-945b-c4307ad84577">
+
 Saved Model link to download:<br> 
 https://drive.google.com/file/d/1Zrp-lf_mdUk98knedItTFaK8kLn7yXFG/view?usp=sharing<br> 
 <h1>Output</h1><br><br>
