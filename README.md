@@ -2,7 +2,8 @@ This project proposes a novel Face Recognition system employing One-Shot Learnin
 
 Dataset used for training: Enhanced Ollivetti dataset,150 epochs<br> 
 The model is robust over changes in lighting , angles and noise<br> 
-Saved Model link to load:
+Saved Model link to download:<br> 
+https://drive.google.com/file/d/1Zrp-lf_mdUk98knedItTFaK8kLn7yXFG/view?usp=sharing<br> 
 <h1>Output</h1><br><br>
 
 
