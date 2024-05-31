@@ -1,7 +1,7 @@
 This project proposes a novel Face Recognition system employing One-Shot Learning, a technique tailored to discern facial similarities with minimal training data. Siamese neural networks are trained using both the Olivetti dataset and a custom dataset. <br>
 
 Dataset used for training: Enhanced Ollivetti dataset,150 epochs<br> 
-The model is robust over changes in lighting , angles and noise
+The model is robust over changes in lighting , angles and noise<br> 
 Saved Model link to load:
 <h1>Output</h1><br><br>
 
