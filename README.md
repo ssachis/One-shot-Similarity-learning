@@ -8,7 +8,7 @@ Model Architecture<br>
 Saved Model link to download:<br> 
 https://drive.google.com/file/d/1Zrp-lf_mdUk98knedItTFaK8kLn7yXFG/view?usp=sharing<br> 
 <h1>Output</h1><br><br>
-
+score above 0.5 correlates to the same person in the two images
 
 
 <img width="736" alt="Screenshot 2024-05-31 at 9 29 04 PM" src="https://github.com/ssachis/Face-recognition-using-one-shot-learning/assets/89895559/dae9df22-c691-4e36-95cd-b48056188f49">
